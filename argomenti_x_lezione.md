@@ -1,6 +1,6 @@
 # Argomenti per lezione
 
-## Lezione 1 del 2023-10-12
+## Lezione 1 del 2023-10-02
 
 Introduzione al corso. Metodo algoritmico. Esempi: Rompicapo di Guarini; Calcolo della radice quadrata.
 
