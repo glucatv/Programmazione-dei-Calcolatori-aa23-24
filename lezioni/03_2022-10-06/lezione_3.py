@@ -92,12 +92,5 @@ print(numero_vocali)
 
 # In[]
 
-x = input('Digita la prima parola (caratteri minuscoli) ')
-y = input('Digita la second parola (caratteri minuscoli) ')
-
-# scrivere un programma che stampi vero se x precede y
-# nell'ordinamento alfabetico
 
 
-'marco'
-'marcello'

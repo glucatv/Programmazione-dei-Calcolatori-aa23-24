@@ -23,3 +23,9 @@ L'istruzione `if...elif...else`. Gli operatori aritmetici modulo e divisione int
 2. Si scriva un programma che acquisisca in input due parole `x` ed `y` composte di caratteri minuscoli e stampi un messaggio che indichi quale delle due precede l'altra nell'ordinamento alfabetico.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/f4orjap5swnggdgtiemfe/03-Lezione-3-del-2023-10-06-20231006_091849-Registrazione-della-riunione.mp4?rlkey=9hk4sb04iyyz90vd8lzjnqemv&dl=1)
+
+## Lezione 4 del 2023-10-09
+
+Soluzione. L'operatore booleano `and`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema. Gli operatori relazionali  `<` , `<=`, `>=`, `>` e `==` tra stringhe e cosa 'nascondono'. Definizioni di *funzioni* e l'istruzione `return`. Il tipo di dato `bool`.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/51ltmsqneoq4a0lzkx7vj/04-Lezione-4-del-2023-10-09-Lezioni-2023-24-20231009_091616-Registrazione-della-riunione.mp4?rlkey=wsu2cza2vlt5a3lbvso8nqfac&dl=1)
