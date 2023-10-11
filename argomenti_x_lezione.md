@@ -26,6 +26,12 @@ L'istruzione `if...elif...else`. Gli operatori aritmetici modulo e divisione int
 
 ## Lezione 4 del 2023-10-09
 
-Soluzione. L'operatore booleano `and`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema. Gli operatori relazionali  `<` , `<=`, `>=`, `>` e `==` tra stringhe e cosa 'nascondono'. Definizioni di *funzioni* e l'istruzione `return`. Il tipo di dato `bool`.
+Soluzione degli esercizi. L'operatore booleano `and`. Valutazione del numero di operazioni eseguite da due diverse soluzioni dello stesso problema. Gli operatori relazionali  `<` , `<=`, `>=`, `>` e `==` tra stringhe e cosa 'nascondono'. Definizioni di *funzioni* e l'istruzione `return`. Il tipo di dato `bool`.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/51ltmsqneoq4a0lzkx7vj/04-Lezione-4-del-2023-10-09-Lezioni-2023-24-20231009_091616-Registrazione-della-riunione.mp4?rlkey=wsu2cza2vlt5a3lbvso8nqfac&dl=1)
+
+## Lezione 5 del 2023-10-10
+
+Operazioni sulle stringhe: concatenazione; ripetizione; immutabilità delle stringhe; indicizzazione negativa e *slicing*. Considerazioni sull'efficienza delle operazioni precedenti  nella soluzione del problema della verifica della palindromia.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/4uqi7h3tgbrht386yinv1/05-Lezione-5-del-2023-10-10-20231010_092053-Registrazione-della-riunione.mp4?rlkey=3bqivlzcpiqbveu2ev94drfrr&dl=1)
