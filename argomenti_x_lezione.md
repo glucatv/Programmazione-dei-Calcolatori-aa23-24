@@ -35,3 +35,9 @@ Soluzione degli esercizi. L'operatore booleano `and`. Valutazione del numero di 
 Operazioni sulle stringhe: concatenazione; ripetizione; immutabilità delle stringhe; indicizzazione negativa e *slicing*. Considerazioni sull'efficienza delle operazioni precedenti  nella soluzione del problema della verifica della palindromia.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/4uqi7h3tgbrht386yinv1/05-Lezione-5-del-2023-10-10-20231010_092053-Registrazione-della-riunione.mp4?rlkey=3bqivlzcpiqbveu2ev94drfrr&dl=1)
+
+## Lezione 6 del 2023-10-13
+
+Approfondimento sulle funzioni: definizione, parametri formali e attuali, variabili locali e visibilità, *frame* o ambiente di una funzione, la pila dei frame, specifiche (descrizione dell'input e dell'output), decomposizione e astrazione. Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/ews7wnrneo8shswo814h0/06-Lezione-6-del-2023-10-13-20231013_091702-Registrazione-della-riunione.mp4?rlkey=r149uo5la61cqu6ck53w7wxgr&dl=1)
