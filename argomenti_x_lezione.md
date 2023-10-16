@@ -41,3 +41,9 @@ Operazioni sulle stringhe: concatenazione; ripetizione; immutabilità delle stri
 Approfondimento sulle funzioni: definizione, parametri formali e attuali, variabili locali e visibilità, *frame* o ambiente di una funzione, la pila dei frame, specifiche (descrizione dell'input e dell'output), decomposizione e astrazione. Costo computazionale: il tempo misurato contando il numero di operazioni elementari eseguite da un algoritmo.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/ews7wnrneo8shswo814h0/06-Lezione-6-del-2023-10-13-20231013_091702-Registrazione-della-riunione.mp4?rlkey=r149uo5la61cqu6ck53w7wxgr&dl=1)
+
+## Lezione 7 del 2023-10-16
+
+Complessità computazionale: una misura per l'efficienza; analisi del caso peggiore; notazione asintotica O-grande e Theta-grande; complessità temporale; introduzione alla complessità spaziale.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/eklk6gbok1x1ti0br7bb1/07-Lezione-7-del-2023-10-16-20231016_091742-Registrazione-della-riunione.mp4?rlkey=8ngruu6ul9kftgnrcqkveimbz&dl=1)
