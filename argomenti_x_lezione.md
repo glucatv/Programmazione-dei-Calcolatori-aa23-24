@@ -47,3 +47,9 @@ Approfondimento sulle funzioni: definizione, parametri formali e attuali, variab
 Complessità computazionale: una misura per l'efficienza; analisi del caso peggiore; notazione asintotica O-grande e Theta-grande; complessità temporale; introduzione alla complessità spaziale.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/eklk6gbok1x1ti0br7bb1/07-Lezione-7-del-2023-10-16-20231016_091742-Registrazione-della-riunione.mp4?rlkey=8ngruu6ul9kftgnrcqkveimbz&dl=1)
+
+## Lezione 8 del 2023-10-17
+
+Complessità spaziale: esempi. La struttura dati tupla: definizione; operatori; immutabilità; *packing* e *unpacking*.  La struttura dati lista: definizione; operatori; mutabilità; funzione `del` e metodo `append`. Differenza tra metodo e funzione. Le funzioni `tuple`, `list`, `str` e `len`.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/8kygk3mxa1kam2vpyz8di/08-Lezione-8-del-2023-10-17-20231017_092122-Registrazione-della-riunione.mp4?rlkey=g920vp4247va0rf0jb1jbtgqc&dl=1)
