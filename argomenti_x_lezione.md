@@ -53,3 +53,9 @@ Complessità computazionale: una misura per l'efficienza; analisi del caso peggi
 Complessità spaziale: esempi. La struttura dati tupla: definizione; operatori; immutabilità; *packing* e *unpacking*.  La struttura dati lista: definizione; operatori; mutabilità; funzione `del` e metodo `append`. Differenza tra metodo e funzione. Le funzioni `tuple`, `list`, `str` e `len`.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/8kygk3mxa1kam2vpyz8di/08-Lezione-8-del-2023-10-17-20231017_092122-Registrazione-della-riunione.mp4?rlkey=g920vp4247va0rf0jb1jbtgqc&dl=1)
+
+## Lezione 9 del 2023-10-23
+
+Un esempio di utilizzo delle liste come struttura dati per l'input e come struttura di appoggio. Complessità temporale dell'operazione di `append`, indicizzazione e creazione di una lista vuota.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/gruv37aeobf75uxi11y6k/09-Lezione-9-del-2023-10-23-20231023_091715-Registrazione-della-riunione.mp4?rlkey=wlhhvqo9bij7ssxy6lhqzvvnd&dl=1)
