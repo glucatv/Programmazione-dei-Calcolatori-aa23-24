@@ -9,6 +9,8 @@ Created on Mon Oct 23 09:59:35 2023
 N = ['B', 'A', 'D', 'F', 'E', 'C']
 P = [2, 0, 6, 9, 7, 3]
 
+# output, lista dei centri di N
+
 n = len(N)
 
 # calcoliamo l'eccentricità
@@ -22,7 +24,7 @@ for x in P:
             ecc_x = abs(x-y)
     E.append(ecc_x) # O(1) nel 'caso medio'
     
-# ^ Theta(n*n ^)
+# ^ Theta(n*n) ^
     
 C = [] # i nomi dei punti centrali di P, costo O(1)
 
@@ -38,5 +40,9 @@ while i < len(E):
         m = e
         C = [ N[i] ] # O(1) nel caso peggiore
     i += 1
-
 # ^ Theta(n)
+    
+ 
+# Complessità temporale è Theta(n*n)
+# Complessità spaziale è Theta(n) ovvero la dimensione di E
+

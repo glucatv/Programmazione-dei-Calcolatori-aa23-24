@@ -59,3 +59,9 @@ Complessità spaziale: esempi. La struttura dati tupla: definizione; operatori; 
 Un esempio di utilizzo delle liste come struttura dati per l'input e come struttura di appoggio. Complessità temporale dell'operazione di `append`, indicizzazione e creazione di una lista vuota.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/gruv37aeobf75uxi11y6k/09-Lezione-9-del-2023-10-23-20231023_091715-Registrazione-della-riunione.mp4?rlkey=wlhhvqo9bij7ssxy6lhqzvvnd&dl=1)
+
+## Lezione 10 del 2023-10-24
+
+Le funzioni incorporate `range()`, `min()` e `max()`, il metodo `index()` delle liste ed il metodo `join()` delle stringhe e loro utilizzo nell'implementazione efficiente di una funzione di disegno dei punti sulla retta.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/b3lgbwzozu4gmh8hyl8iv/10-Lezione-10-del-2023-10-24-20231024_092101-Registrazione-della-riunione.mp4?rlkey=mrrw7rqvhn7jgl68wmxopmsbb&dl=1) 
