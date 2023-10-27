@@ -64,4 +64,10 @@ Un esempio di utilizzo delle liste come struttura dati per l'input e come strutt
 
 Le funzioni incorporate `range()`, `min()` e `max()`, il metodo `index()` delle liste ed il metodo `join()` delle stringhe e loro utilizzo nell'implementazione efficiente di una funzione di disegno dei punti sulla retta.
 
-[Video della lezione](https://www.dropbox.com/scl/fi/b3lgbwzozu4gmh8hyl8iv/10-Lezione-10-del-2023-10-24-20231024_092101-Registrazione-della-riunione.mp4?rlkey=mrrw7rqvhn7jgl68wmxopmsbb&dl=1) 
+[Video della lezione](https://www.dropbox.com/scl/fi/b3lgbwzozu4gmh8hyl8iv/10-Lezione-10-del-2023-10-24-20231024_092101-Registrazione-della-riunione.mp4?rlkey=mrrw7rqvhn7jgl68wmxopmsbb&dl=1)
+
+## Lezione 11 del 2023-10-26
+
+Sul problema di disegno dei punti sulla retta, come sfruttare l'ipotesi che i punti siano ordinati. Il metodo `extend` delle liste. Il problema dell'ordinamento ed una soluzione. L'algoritmo *bubble sort*, descrizione e complessità temporale. Liste come argomento di funzione; l'*aliasing*.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/3a9lpje8i0xmjdwxgjrbn/11-Lezione-11-del-2023-10-27-20231027_092632-Registrazione-della-riunione.mp4?rlkey=bmt13i1sduhzpb9hra8bhf7yu&dl=1)
