@@ -71,3 +71,11 @@ Le funzioni incorporate `range()`, `min()` e `max()`, il metodo `index()` delle 
 Sul problema di disegno dei punti sulla retta, come sfruttare l'ipotesi che i punti siano ordinati. Il metodo `extend` delle liste. Il problema dell'ordinamento ed una soluzione. L'algoritmo *bubble sort*, descrizione e complessità temporale. Liste come argomento di funzione; l'*aliasing*.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/3a9lpje8i0xmjdwxgjrbn/11-Lezione-11-del-2023-10-27-20231027_092632-Registrazione-della-riunione.mp4?rlkey=bmt13i1sduhzpb9hra8bhf7yu&dl=1)
+
+## Lezione 12 del 2023-10-30
+
+Ottimizzazione dell'algoritmo *bubble-sort*: la versione di complessità temporale `O(n*n)` contro la prima di costo `Theta(n*n)`. L'istruzione `return` per terminare anticipatamente l'esecuzione di una funzione. L'istruzione `break`.  Adattare la funzione `bubble_sort` per ordinare sequenze più complesse: ordinare una sequenza di tuple rispetto il valore di un elemento della tupla.
+
+[Video della lezione 1](https://www.dropbox.com/scl/fi/894qzissuhtio4exns8ph/12a-Lezione-12-del-2023-10-30-20231030_091717-Registrazione-della-riunione.mp4?rlkey=dcg7sot6y489f5pol4kjdf1ps&dl=1)
+
+[Video della lezione 2](https://www.dropbox.com/scl/fi/t7agvv19ykuc873r2hk9a/12b-Lezioni-2023-24-20231030_095023-Registrazione-della-riunione.mp4?rlkey=ac00r80oanj9p1rpa86x9pxk5&dl=1)
