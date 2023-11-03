@@ -125,7 +125,7 @@ def draw(N, P):
     # x è ordinata rispetto il secondo elemento delle
     # coppie che lo compongono
     
-    P, N = [], []
+    P, N = [], [] #  non bene, modifichiamo input
     for i in range(n):
         P.append(x[i][1])
         N.append(x[i][0])

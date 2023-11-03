@@ -79,3 +79,15 @@ Ottimizzazione dell'algoritmo *bubble-sort*: la versione di complessità tempora
 [Video della lezione 1](https://www.dropbox.com/scl/fi/894qzissuhtio4exns8ph/12a-Lezione-12-del-2023-10-30-20231030_091717-Registrazione-della-riunione.mp4?rlkey=dcg7sot6y489f5pol4kjdf1ps&dl=1)
 
 [Video della lezione 2](https://www.dropbox.com/scl/fi/t7agvv19ykuc873r2hk9a/12b-Lezioni-2023-24-20231030_095023-Registrazione-della-riunione.mp4?rlkey=ac00r80oanj9p1rpa86x9pxk5&dl=1)
+
+## Lezione 13 del 2023-10-31
+
+Prima prova intermedia
+
+## Lezione 14 del 2023-11-03
+
+La funzione `zip()`. L'operatore di spacchettamento `*`. Funzioni come argomenti di funzione. Funzioni: argomenti per nome e per posizione; argomenti con valori di default (esempio, i parametri della funzione `print()`; funzioni locali. La funzione incorporata `sum()`. Come rendere generale la funzione di ordinamento `bubble_sort()`.
+
+**Esercizio**: Si descriva come invocare la funzione `bubble_sort` in modo che questa ordini una lista contenente numeri e stringhe. Nella lista risultante i numeri dovranno precedere le stringhe; i numeri dovranno essere ordinati dal più piccolo al più grande; le stringhe dovranno essere ordinate lessicograficamente.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/wnmiflobzf9d2f9xctjhx/14-Lezioni-2023-24-20231103_091533-Registrazione-della-riunione.mp4?rlkey=dsp0474y1f81sng6k2l64k1lq&dl=1)
