@@ -20,9 +20,7 @@ Il corso è composto da due parti che si sovrappongono sia come contenuti che te
 
 - [Canale MS-Teams](https://teams.microsoft.com/l/team/19%3aa6a29db18c834a8fb822d968ea008f10%40thread.tacv2/conversations?groupId=07158cb1-0fc1-4930-befd-80987312c5f0&tenantId=24c5be2a-d764-40c5-9975-82d08ae47d0e)
 
-## Programma dettagliato
-
-TODO
+# 
 
 ## Testi di riferimento
 
