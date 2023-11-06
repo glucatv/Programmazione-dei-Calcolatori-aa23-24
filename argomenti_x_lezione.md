@@ -91,3 +91,9 @@ La funzione `zip()`. L'operatore di spacchettamento `*`. Funzioni come argomenti
 **Esercizio**: Si descriva come invocare la funzione `bubble_sort` in modo che questa ordini una lista contenente numeri e stringhe. Nella lista risultante i numeri dovranno precedere le stringhe; i numeri dovranno essere ordinati dal più piccolo al più grande; le stringhe dovranno essere ordinate lessicograficamente.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/wnmiflobzf9d2f9xctjhx/14-Lezioni-2023-24-20231103_091533-Registrazione-della-riunione.mp4?rlkey=dsp0474y1f81sng6k2l64k1lq&dl=1)
+
+## Lezione 15 del 2023-11-06
+
+Confronto tra sequenze. Utilizzo del confronto tra sequenze per impostare ordinamenti multi-criterio. Espressioni confizionali. Funzioni `lambda`. Ordinamento con funzioni e metodi incorporati in Python: la funzione `sorted` ed il metodo `sort` delle liste. La clonazione e aliasing di liste. La clonazione è *superficiale*; come impostare un algoritmo di *clonazione profonda* usando la *ricorsione*.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/iqunvnc837rln5npcv0br/15-Lezione-15-del-2023-11-06-20231106_092139-Registrazione-della-riunione.mp4?rlkey=z5lvh43pj3qi9uz5j9dmpjm7p&dl=1)
