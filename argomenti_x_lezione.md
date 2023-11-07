@@ -97,3 +97,11 @@ La funzione `zip()`. L'operatore di spacchettamento `*`. Funzioni come argomenti
 Confronto tra sequenze. Utilizzo del confronto tra sequenze per impostare ordinamenti multi-criterio. Espressioni confizionali. Funzioni `lambda`. Ordinamento con funzioni e metodi incorporati in Python: la funzione `sorted` ed il metodo `sort` delle liste. La clonazione e aliasing di liste. La clonazione è *superficiale*; come impostare un algoritmo di *clonazione profonda* usando la *ricorsione*.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/iqunvnc837rln5npcv0br/15-Lezione-15-del-2023-11-06-20231106_092139-Registrazione-della-riunione.mp4?rlkey=z5lvh43pj3qi9uz5j9dmpjm7p&dl=1)
+
+## Lezione 16 del 2023-11-07
+
+La funzione ricorsiva `deep_copy()` per la clonazione profonda delle liste. Considerazioni sulla complessità spaziale delle funzioni ricorsive. L'algoritmo di fusione per ordinare in tempo lineare due liste già ordinate. Descrizione e complessità temporale dell'algoritmo **merge-sort**.
+
+**Esercizio per casa:** si scriva una funzione chiamata `conta_int()` che prenda in input una lista `a` e ritorni il numero totale di numeri in `a` ed in tutte le sue sottoliste e la loro somma. 
+
+[Video della lezione](https://www.dropbox.com/scl/fi/36lul7on5a2p7fd8s4nej/16-Lezione-16-del-2023-11-07-20231107_092113-Registrazione-della-riunione.mp4?rlkey=koq7m5j2as75dqhm9s349a3jj&dl=1)
