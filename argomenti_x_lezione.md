@@ -105,3 +105,9 @@ La funzione ricorsiva `deep_copy()` per la clonazione profonda delle liste. Cons
 **Esercizio per casa:** si scriva una funzione chiamata `conta_int()` che prenda in input una lista `a` e ritorni il numero totale di numeri in `a` ed in tutte le sue sottoliste e la loro somma. 
 
 [Video della lezione](https://www.dropbox.com/scl/fi/36lul7on5a2p7fd8s4nej/16-Lezione-16-del-2023-11-07-20231107_092113-Registrazione-della-riunione.mp4?rlkey=koq7m5j2as75dqhm9s349a3jj&dl=1)
+
+## Lezione 17 del 2023-11-10
+
+Soluzione dell'esercizio per casa. Implementazione ed analisi dell'algoritmo di ordinamento per fusione (`merge_sort`); la complessità temporale e spaziale. Il problema della ricerca in una sequenza: può servire ordinare per velocizzare la ricerca?
+
+[Video della lezione](https://www.dropbox.com/scl/fi/w44m7qg4sppucpblxjmm1/17-Lezione-17-del-2023-11-10-20231110_091717-Registrazione-della-riunione.mp4?rlkey=1hm1idsvonhuydt0629tthvd6&dl=1)

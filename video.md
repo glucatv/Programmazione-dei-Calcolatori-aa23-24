@@ -16,3 +16,4 @@
 14. [2023-11-03](https://www.dropbox.com/scl/fi/wnmiflobzf9d2f9xctjhx/14-Lezioni-2023-24-20231103_091533-Registrazione-della-riunione.mp4?rlkey=dsp0474y1f81sng6k2l64k1lq&dl=1)
 15. [2023-11-06](https://www.dropbox.com/scl/fi/iqunvnc837rln5npcv0br/15-Lezione-15-del-2023-11-06-20231106_092139-Registrazione-della-riunione.mp4?rlkey=z5lvh43pj3qi9uz5j9dmpjm7p&dl=1)
 16. [2023-11-07](https://www.dropbox.com/scl/fi/36lul7on5a2p7fd8s4nej/16-Lezione-16-del-2023-11-07-20231107_092113-Registrazione-della-riunione.mp4?rlkey=koq7m5j2as75dqhm9s349a3jj&dl=1)
+17. [2023-11-10](https://www.dropbox.com/scl/fi/w44m7qg4sppucpblxjmm1/17-Lezione-17-del-2023-11-10-20231110_091717-Registrazione-della-riunione.mp4?rlkey=1hm1idsvonhuydt0629tthvd6&dl=1)
