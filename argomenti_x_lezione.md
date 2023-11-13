@@ -111,3 +111,11 @@ La funzione ricorsiva `deep_copy()` per la clonazione profonda delle liste. Cons
 Soluzione dell'esercizio per casa. Implementazione ed analisi dell'algoritmo di ordinamento per fusione (`merge_sort`); la complessità temporale e spaziale. Il problema della ricerca in una sequenza: può servire ordinare per velocizzare la ricerca?
 
 [Video della lezione](https://www.dropbox.com/scl/fi/w44m7qg4sppucpblxjmm1/17-Lezione-17-del-2023-11-10-20231110_091717-Registrazione-della-riunione.mp4?rlkey=1hm1idsvonhuydt0629tthvd6&dl=1)
+
+## Lezione 18 del 2023-11-13
+
+Algoritmo di ricerca binaria: ricerca della posizione della chiave `k` in una lista ordinata; ricerca della posizione dell'ultima occorrenza della chiave `k` in una lista ordinata; complessità temporale e spaziale. La struttura dati *dizionario*: le operazioni di creazione, indicizzazione, inserimento, aggiornamento e cancellazione.
+
+**Esercizio:** Modificare l'algoritmo di ricerca binaria in modo tale che ritorni la posizione `p` della lista in input `a` tale `a[i] <= k` per `i <= p` e `a[i] > k` per `i > p` 
+
+[Video della lezione](https://www.dropbox.com/scl/fi/pwwr18xjbe5j9nwzxpngk/18-Lezione-18-del-2023-11-13-20231113_091719-Registrazione-della-riunione.mp4?rlkey=rd92f46i3ez00fdvcqt2rz1bc&dl=1)
