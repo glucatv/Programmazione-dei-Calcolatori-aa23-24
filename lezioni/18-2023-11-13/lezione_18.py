@@ -92,20 +92,6 @@ def bin_search( a, k ):
     
     # TODO
     
-    #n = len(a)
-    sx, rx = 0, len(a)
-    # ricerco k in a[sx:rx]
-    
-    while rx > sx:
-        cx = (sx+rx)//2
-        if a[cx] == k and (cx == rx-1 or a[cx+1] != k):
-            return cx
-        if k < a[cx]:
-            rx = cx
-        else:
-            sx = cx+1
-            
-    return -1
 
     # Complessità spaziale: O(1)
     # Complessità temporale: O(log n)
