@@ -124,6 +124,10 @@ Algoritmo di ricerca binaria: ricerca della posizione della chiave `k` in una li
 
 Soluzione dell'esercizio per casa. Dizionari: iterareare sulle chiavi; l'operatore `in`. Le funzioni incorporare `ord()` e `chr()`. Accesso ad un file testuale in lettura: la funzione incorporata `open()`.
 
-
-
 [Video della lezione](https://www.dropbox.com/scl/fi/zm1b3glhhvmcl8qybmydh/19-Lezione-19-del-2023-11-14-20231114_091637-Registrazione-della-riunione.mp4?rlkey=h4un29krgfxgifh5wbzswlp6t&dl=1)
+
+## Lezione 20 del 2023-11-15 (recupero lezione del 20 ottobre)
+
+Dizionari: i metodi `get()`, `items()`,`keys()`, `values()` e `copy()` per la clonazione superficiale; complessità temporale delle operazioni di inserimento, ricerca, aggiornamento, cancellazione ed iterazione. Il parametro `key` della funzione `max()` (ma anche `min()`). Inizializzazione di liste con l'operazione *list comprehension* (comprensione di liste).
+
+[Video della lezione](https://www.dropbox.com/scl/fi/tpj0q7mw4fmrwqdhvavdc/20-Recupero-lezione-del-20-ottobre-20231115_143228-Registrazione-della-riunione.mp4?rlkey=yrsck6vmtf6aionm00xlblmvb&dl=1)
