@@ -116,7 +116,7 @@ Soluzione dell'esercizio per casa. Implementazione ed analisi dell'algoritmo di 
 
 Algoritmo di ricerca binaria: ricerca della posizione della chiave `k` in una lista ordinata; ricerca della posizione dell'ultima occorrenza della chiave `k` in una lista ordinata; complessità temporale e spaziale. La struttura dati *dizionario*: le operazioni di creazione, indicizzazione, inserimento, aggiornamento e cancellazione.
 
-**Esercizio:** Modificare l'algoritmo di ricerca binaria in modo tale che ritorni la posizione `p` della lista in input `a` tale `a[p] > k` e` e `a[p] <= k` (vedere script della lezione). 
+**Esercizio:** Modificare l'algoritmo di ricerca binaria in modo tale che ritorni la posizione `p` della lista in input `a` tale `a[p] > k` e `a[p] <= k` (vedere script della lezione). 
 
 [Video della lezione](https://www.dropbox.com/scl/fi/pwwr18xjbe5j9nwzxpngk/18-Lezione-18-del-2023-11-13-20231113_091719-Registrazione-della-riunione.mp4?rlkey=rd92f46i3ez00fdvcqt2rz1bc&dl=1)
 
