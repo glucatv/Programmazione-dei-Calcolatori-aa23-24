@@ -131,3 +131,11 @@ Soluzione dell'esercizio per casa. Dizionari: iterareare sulle chiavi; l'operato
 Dizionari: i metodi `get()`, `items()`,`keys()`, `values()` e `copy()` per la clonazione superficiale; complessità temporale delle operazioni di inserimento, ricerca, aggiornamento, cancellazione ed iterazione. Il parametro `key` della funzione `max()` (ma anche `min()`). Inizializzazione di liste con l'operazione *list comprehension* (comprensione di liste).
 
 [Video della lezione](https://www.dropbox.com/scl/fi/tpj0q7mw4fmrwqdhvavdc/20-Recupero-lezione-del-20-ottobre-20231115_143228-Registrazione-della-riunione.mp4?rlkey=yrsck6vmtf6aionm00xlblmvb&dl=1)
+
+## Lezione 21 del 2023-11-17
+
+Esercizi: risolvere ottimamente il problema dell'intersezione usando dizionari. Gestione delle eccezioni con `try...except`. Esercizio: una funzione che verifica se le due stringhe in input sono anagrammi.
+
+**Esercizio per casa**: L'algoritmo visto a lezione che verifica se due stringhe sono anagrammi richiede tempo `O(n log n)` dove `n` è la lunghezza della stringa. Si progetti una funzione che abbia costo lineare (sugerimento, usare dizionari di appoggio).
+
+[Video della lezione](https://www.dropbox.com/scl/fi/9aypcczyx025es8l1ujgm/21-Lezioni-2023-24-20231117_091533-Registrazione-della-riunione.mp4?rlkey=kmmabdehg4p3timtzm22b94pu&dl=1)
