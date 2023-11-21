@@ -139,3 +139,17 @@ Esercizi: risolvere ottimamente il problema dell'intersezione usando dizionari. 
 **Esercizio per casa**: L'algoritmo visto a lezione che verifica se due stringhe sono anagrammi richiede tempo `O(n log n)` dove `n` è la lunghezza della stringa. Si progetti una funzione che abbia costo lineare (sugerimento, usare dizionari di appoggio).
 
 [Video della lezione](https://www.dropbox.com/scl/fi/9aypcczyx025es8l1ujgm/21-Lezioni-2023-24-20231117_091533-Registrazione-della-riunione.mp4?rlkey=kmmabdehg4p3timtzm22b94pu&dl=1)
+
+## Lezione 22 del 2023-11-20
+
+Soluzione dell'esercizio per casa. Assegnazioni a catena e confronti multipli. La funzione incorporate `id()`.
+
+Alcuni utili comandi della *shell* di Linux. Differenza tra linguaggi interpretati e compilati. Introduzione al linguaggio C: la compilazione; la funzione `main()`; dichiarazioni di variabili e assegnazione; la funzione `printf()`. 
+
+[Video della lezione](https://www.dropbox.com/scl/fi/0tgpy0zxl4u9omqtuytxh/22-Lezione-22-del-2023-11-20-20231120_091716-Registrazione-della-riunione.mp4?rlkey=372ear4sgwl2v3s74zns9bthy&dl=1)
+
+## Lezione 23 del 2023-11-21
+
+Linguaggio C: operazioni aritmetiche, relazionali e logiche; tipi delle espressioni; cicli `while` e `for`; l'istruzione `if...else`; definizione di funzioni; prototipi; il processo di compilazione (il ruolo della direttiva `include`) e le librerie;
+
+[Video della lezione](https://www.dropbox.com/scl/fi/hdx2wnns56cx8sdl0ysc6/23-Lezione-23-del-2023-11-21-20231121_091849-Registrazione-della-riunione.mp4?rlkey=a2je9mms4gk1goa4vfoe2oa27&dl=1)
