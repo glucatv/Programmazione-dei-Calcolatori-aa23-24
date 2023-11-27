@@ -156,6 +156,6 @@ Linguaggio C: operazioni aritmetiche, relazionali e logiche; tipi delle espressi
 
 ## Lezione 24 del 2023-11-27
 
-Gli array in C. Array come input di funzione. Array e puntatori.
+Gli array in C. La funzione `sizeof`. Array come input di funzione. Array e puntatori.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/ymbp9wyacvrjhfbrero7v/23-Lezioni-2023-24-20231127_091512-Registrazione-della-riunione.mp4?rlkey=5eb45qo8c3g8nows9a29ul0ga&dl=1)
