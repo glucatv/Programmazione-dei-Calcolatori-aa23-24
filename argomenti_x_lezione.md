@@ -159,3 +159,9 @@ Linguaggio C: operazioni aritmetiche, relazionali e logiche; tipi delle espressi
 Gli array in C. La funzione `sizeof`. Array come input di funzione. Array e puntatori.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/ymbp9wyacvrjhfbrero7v/23-Lezioni-2023-24-20231127_091512-Registrazione-della-riunione.mp4?rlkey=5eb45qo8c3g8nows9a29ul0ga&dl=1)
+
+## Lezione 25 del 2023-11-28
+
+Puntatori; dichiarazioni di variabili di tipo puntatore; gli operatori `*` e `&`; aritmetica dei puntatori; complessità dell'indicizzazione; allocazione dinamica della memoria con la funzione `malloc()` della libreria `stdlib`; funzione che ritornano array.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/so9v8ze0f41yzcumthx78/25-Lezioni-2023-24-20231128_091557-Registrazione-della-riunione.mp4?rlkey=49a30ktwnayto2kjk5h21dom1&dl=1)
