@@ -28,7 +28,7 @@ int main(){
 	float *x, *y;
 	float *z;
 	
-	x = &pi;
+	x = &pi; /* x prende l'indirizzo di pi*/
 	
 	printf("%p\n", x);
 	
@@ -37,11 +37,11 @@ int main(){
 	 * risposta *x è il float puntato da x
 	 * */
 	 
-	 printf("%f\n", *x);
+	 printf("%f\n", *x);  /* stampa dell'elemento puntato da x*/
 	 
 	 y = x;
 	 
-	 *y += 1;
+	 *y += 1;  /*  il valore di *y viene incrementato di uno e assegnato a *y  */
 	 
 	 printf("%f\n", *x);
 	 
