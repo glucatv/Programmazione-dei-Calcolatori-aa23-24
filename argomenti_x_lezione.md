@@ -165,3 +165,13 @@ Gli array in C. La funzione `sizeof`. Array come input di funzione. Array e punt
 Puntatori; dichiarazioni di variabili di tipo puntatore; gli operatori `*` e `&`; aritmetica dei puntatori; complessità dell'indicizzazione; allocazione dinamica della memoria con la funzione `malloc()` della libreria `stdlib`; funzione che ritornano array.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/so9v8ze0f41yzcumthx78/25-Lezioni-2023-24-20231128_091557-Registrazione-della-riunione.mp4?rlkey=49a30ktwnayto2kjk5h21dom1&dl=1)
+
+## Lezione 26 del 2023-12-01
+
+Seconda prova intermedia
+
+## Lezione 27 del 2023-12-04
+
+Definire dati composti con `struct`: definizione, inizializzazione, lettura e scrittura dei campi, l'operazione di copia. Nuovi tipi con `typedef`.  Definizione ed implementazione di una struttura dati sullo stile delle liste Python: operazioni preliminari e cenni su come renderla dinamica tenendo a bada i costi. 
+
+[Video della lezione](https://www.dropbox.com/scl/fi/exiuecykleba4e9xsafej/27-Lezione-27-del-2023-12-04-20231204_092027-Registrazione-della-riunione.mp4?rlkey=wref383hrvndzghf3bf574mv2&dl=1)
