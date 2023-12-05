@@ -175,3 +175,9 @@ Seconda prova intermedia
 Definire dati composti con `struct`: definizione, inizializzazione, lettura e scrittura dei campi, l'operazione di copia. Nuovi tipi con `typedef`.  Definizione ed implementazione di una struttura dati sullo stile delle liste Python: operazioni preliminari e cenni su come renderla dinamica tenendo a bada i costi. 
 
 [Video della lezione](https://www.dropbox.com/scl/fi/exiuecykleba4e9xsafej/27-Lezione-27-del-2023-12-04-20231204_092027-Registrazione-della-riunione.mp4?rlkey=wref383hrvndzghf3bf574mv2&dl=1)
+
+## Lezione 28 del 2023-12-05
+
+Array a dimensione variabile in C: implementazione del tipo di dato `sequenza` che li implementa; le operazioni di `append`, `pop` e inserimento; complessità temporale e spaziale. La funzione `free()` della libreria `stdlib`.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/t82zgpahttsbeyhixdy71/28-Lezione-28-del-2023-12-05-20231205_091757-Registrazione-della-riunione.mp4?rlkey=l4ipxlngusprqqf45moy4tmpw&dl=1) 
