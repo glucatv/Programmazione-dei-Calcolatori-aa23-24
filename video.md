@@ -28,3 +28,4 @@
 26. Prova intermedia
 27. [2023-12-04](https://www.dropbox.com/scl/fi/exiuecykleba4e9xsafej/27-Lezione-27-del-2023-12-04-20231204_092027-Registrazione-della-riunione.mp4?rlkey=wref383hrvndzghf3bf574mv2&dl=1)
 28. [2023-12-05](https://www.dropbox.com/scl/fi/t82zgpahttsbeyhixdy71/28-Lezione-28-del-2023-12-05-20231205_091757-Registrazione-della-riunione.mp4?rlkey=l4ipxlngusprqqf45moy4tmpw&dl=1)
+29. [2023-12-06](https://www.dropbox.com/scl/fi/eq2epmc0w27hzrgmbt5a7/29-Lezioni-2023-24-20231206_143048-Registrazione-della-riunione.mp4?rlkey=o6b5btafh9foxfwkxno9gpshj&dl=1)

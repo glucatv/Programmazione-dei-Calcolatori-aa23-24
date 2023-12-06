@@ -181,3 +181,25 @@ Definire dati composti con `struct`: definizione, inizializzazione, lettura e sc
 Array a dimensione variabile in C: implementazione del tipo di dato `sequenza` che li implementa; le operazioni di `append`, `pop` e inserimento; complessità temporale e spaziale. La funzione `free()` della libreria `stdlib`.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/t82zgpahttsbeyhixdy71/28-Lezione-28-del-2023-12-05-20231205_091757-Registrazione-della-riunione.mp4?rlkey=l4ipxlngusprqqf45moy4tmpw&dl=1) 
+
+## Lezione 29 del 2023-12-06 (recupero lezione del 24 novembre)
+
+Cancellazione di un elemento da una posizione generica dell'array di dimensione variabile. Uso della funzione `realloc()` della libreria `stdlib()` per ottimizzare le funzioni `append()` e `pop()`. Il tipo di dato `char`, gestione delle stringhe nel linguaggio C.
+
+**Esercizio 1** Si scriva una funzione C avente il seguente prototipo:
+
+```c
+char *cat(char *a, char *b);
+```
+
+La funzione restituisce una nuova stringa definita dalla concatenazione delle due stringhe in input.
+
+**Esercizio 2** Si scriva una funzione avente il seguente prototipo:
+
+```c
+sequenza trova_vocali(char *a)
+```
+
+La funzione ritorna una `sequenza` a valori interi (vedere lezioni 27, 28 e 29) contenente  le posizioni  di  `a`  in cui sono contenute le vocali.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/eq2epmc0w27hzrgmbt5a7/29-Lezioni-2023-24-20231206_143048-Registrazione-della-riunione.mp4?rlkey=o6b5btafh9foxfwkxno9gpshj&dl=1)
