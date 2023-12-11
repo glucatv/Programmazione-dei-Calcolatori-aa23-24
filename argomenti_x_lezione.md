@@ -203,3 +203,9 @@ sequenza trova_vocali(char *a)
 La funzione ritorna una `sequenza` a valori interi (vedere lezioni 27, 28 e 29) contenente  le posizioni  di  `a`  in cui sono contenute le vocali.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/eq2epmc0w27hzrgmbt5a7/29-Lezioni-2023-24-20231206_143048-Registrazione-della-riunione.mp4?rlkey=o6b5btafh9foxfwkxno9gpshj&dl=1)
+
+## Lezione 30 del 2023-12-11
+
+Soluzione degli esercizi. Approfondimenti sulle funzioni di allocazione della memoria e gestione dell'output `NULL`.  Conversione di tipo (*casting*) implicito ed esplicito. La libreria **string**. Argomenti alla linea di comando.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/wmum534o5smbnb9mz7pb9/30-Lezione-30-del-2023-12-11-20231211_091700-Registrazione-della-riunione.mp4?rlkey=gmtc3aj7yeamysnenxgaugo83&dl=1)
