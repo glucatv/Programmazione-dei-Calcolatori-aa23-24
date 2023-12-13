@@ -209,3 +209,11 @@ La funzione ritorna una `sequenza` a valori interi (vedere lezioni 27, 28 e 29) 
 Soluzione degli esercizi. Approfondimenti sulle funzioni di allocazione della memoria e gestione dell'output `NULL`.  Conversione di tipo (*casting*) implicito ed esplicito. La libreria **string**. Argomenti alla linea di comando.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/wmum534o5smbnb9mz7pb9/30-Lezione-30-del-2023-12-11-20231211_091700-Registrazione-della-riunione.mp4?rlkey=gmtc3aj7yeamysnenxgaugo83&dl=1)
+
+## Lezione 31 del 2023-12-12
+
+Conversione da stringa a intero. La funzione `sscanf()` e argomenti passati per riferimento. Introduzione alle liste concatenate: accesso diretto e accesso sequenziale pro e contro.
+
+**Esercizio** Si scriva un programma che ordini in modo lessicografico  le stringhe passate alla linea di comando. Come algoritmo di ordinamento si utilizzi il Bubble-sort.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/q7iibhes18nrd3dy3mj1e/31-Lezione-31-del-2023-12-12-20231212_091643-Registrazione-della-riunione.mp4?rlkey=f6zrvlzc92l082rkyukej9q8w&dl=1)
