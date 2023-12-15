@@ -217,3 +217,25 @@ Conversione da stringa a intero. La funzione `sscanf()` e argomenti passati per 
 **Esercizio** Si scriva un programma che ordini in modo lessicografico  le stringhe passate alla linea di comando. Come algoritmo di ordinamento si utilizzi il Bubble-sort.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/q7iibhes18nrd3dy3mj1e/31-Lezione-31-del-2023-12-12-20231212_091643-Registrazione-della-riunione.mp4?rlkey=f6zrvlzc92l082rkyukej9q8w&dl=1)
+
+## Lezione 32 del 2023-12-15
+
+Soluzione dell'esercizio.Confronto fra stringhe e la funzione `strcmp()` della libreria *string*. Implementazione delle liste concatenate: definizione di *nodo*; implementazioni delle funzioni di inserimento in testa ed in posizione uno; complessità temporale delle operazioni di inserimento; accesso sequenziale alla lista; come utilizzare la struttura per permettere l'inserimento in fondo alla lista in tempo costante. 
+
+**Esercizio 1** Scrivere una funzione avente il seguente prototipo:
+
+```c
+nodo *lista_cerca(nodo *x, int pos);
+```
+
+La funzione prenda in input una lista `x` ed un intero `pos` e ritorni il puntatore al nodo in posizione `pos` di `x`.  Se tale nodo non esiste, la funzione ritorni `NULL`.
+
+**Esercizio 2** Scrivere una funzione avente il seguente prototipo:
+
+```c
+nodo *lista_in(nodo *x, int pos, float e);
+```
+
+La funzione prenda in input una lista `x` , un intero `pos`  ed un float `e`  ed inserisca un nuovo nodo contenente l'informazione `e`  in posizione `pos` di `x` . La funzione ritorni la lista modificata oppure  `x` nel caso la posizione  `pos` non esista.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/pf2qrzpjt8gj8y28bxrw0/32-Lezione-32-del-2023-12-15-20231215_091630-Registrazione-della-riunione.mp4?rlkey=weuc5bfdf9ujsegdmocop6vwo&dl=1)
