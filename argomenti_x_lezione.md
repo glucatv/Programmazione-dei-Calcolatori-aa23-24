@@ -239,3 +239,11 @@ nodo *lista_in(nodo *x, int pos, float e);
 La funzione prenda in input una lista `x` , un intero `pos`  ed un float `e`  ed inserisca un nuovo nodo contenente l'informazione `e`  in posizione `pos` di `x` . La funzione ritorni la lista modificata oppure  `x` nel caso la posizione  `pos` non esista.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/pf2qrzpjt8gj8y28bxrw0/32-Lezione-32-del-2023-12-15-20231215_091630-Registrazione-della-riunione.mp4?rlkey=weuc5bfdf9ujsegdmocop6vwo&dl=1)
+
+## Lezione 33 del 2023-12-18
+
+Soluzione degli esercizi: ricerca ed inserimento in posizione qualsiasi in una lisa concatenata. Cancellazione di un nodo in posizione 1 da una lista concatenata. Introduzione all'implementazione della struttura dati dizionario nel linguaggio C.
+
+**Esercizio**. Implementare le funzioni `lista_out0(nodo *x)` e  `lista_out(nodo *x, int pos)` che, rispettivamente, cancellano da una lista il nodo in posizione 0 e quello in posizione `pos`.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/oy4txv5sth4d5c0qsuc3o/33-Lezione-33-del-2023-12-18-20231218_091555-Registrazione-della-riunione.mp4?rlkey=l3mt2s1t87oicgjl4owhsaznn&dl=1) 
