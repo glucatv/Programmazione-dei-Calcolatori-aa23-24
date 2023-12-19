@@ -247,3 +247,37 @@ Soluzione degli esercizi: ricerca ed inserimento in posizione qualsiasi in una l
 **Esercizio**. Implementare le funzioni `lista_out0(nodo *x)` e  `lista_out(nodo *x, int pos)` che, rispettivamente, cancellano da una lista il nodo in posizione 0 e quello in posizione `pos`.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/oy4txv5sth4d5c0qsuc3o/33-Lezione-33-del-2023-12-18-20231218_091555-Registrazione-della-riunione.mp4?rlkey=l3mt2s1t87oicgjl4owhsaznn&dl=1) 
+
+## Lezione 34 del 2023-12-19
+
+Soluzione degli esercizi: cancellazione degli elementi da una lista concatenata. Implementazione della struttura dati dizionario con liste di trabocco: creazione, ricerca ed inserimento.
+
+**Esercizio 1**.  Si scriva una funzione nel linguaggio C avente il seguente prototipo:
+
+```c
+dict dict_del(dict d, char *k);
+```
+
+Se `k` è una chiave del dizionario, la funzione deve eliminare dal dizionario `d` la coppia con chiave `k`. La funzione ritorni il dizionario modificato.
+
+**Esercizio 2**. Si scriva una funzione nel linguaggio C avente il seguente prototipo:
+
+```c
+dict dict_resize(dict d, int new_m);
+```
+
+La funzione deve restituire un nuovo dizionario con `new_m` liste di trabocco contenente tutti gli elementi di `d`. Il dizionario `d` deve essere eliminato dalla memoria.
+
+**Esercizio 3**. Una *coda* è una struttura dati su cui sono definite le seguenti operazioni:
+
+* `coda_new()`: restituisce una coda vuota
+
+* `coda_in(q, e)`: inserisce nella cosa l'elemento `e`
+
+* `coda_get(q)`: restituisce l'elemento che è presente nella coda `q` da più tempo.
+
+* `coda_del(q)`: elimina dalla coda `q`  l'elemento più vecchio.
+
+Si implementi nel linguaggio C la struttura dati coda contenente `float`  facendo in modo che le operazioni sopra descritte abbiano complessità temporale costante nel caso peggiore. 
+
+[Video della lezione](https://www.dropbox.com/scl/fi/r8gfssi3ja6vxpzqhkerq/34-Lezione-34-del-2023-12-19-20231219_091503-Registrazione-della-riunione.mp4?rlkey=e4eugdlgk7xmwifwpkdx8wcpw&dl=1)
