@@ -281,3 +281,9 @@ La funzione deve restituire un nuovo dizionario con `new_m` liste di trabocco co
 Si implementi nel linguaggio C la struttura dati coda contenente `float`  facendo in modo che le operazioni sopra descritte abbiano complessità temporale costante nel caso peggiore. 
 
 [Video della lezione](https://www.dropbox.com/scl/fi/r8gfssi3ja6vxpzqhkerq/34-Lezione-34-del-2023-12-19-20231219_091503-Registrazione-della-riunione.mp4?rlkey=e4eugdlgk7xmwifwpkdx8wcpw&dl=1)
+
+## Lezione 35 del 2024-01-08
+
+Soluzione dei problemi assegnati: vedere [qua](https://github.com/glucatv/Programmazione-dei-Calcolatori-aa23-24/tree/main/lezioni/34-2024-01-03) e [qua](https://github.com/glucatv/Programmazione-dei-Calcolatori-aa23-24/tree/main/lezioni/34-2024-01-05). Implementazioni di strutture con elementi di tipo non omogeneo, una soluzione usando le `union` del C.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/w64q86legsxxsaee9h2nx/35-Lezioni-2023-24-20240108_091700-Registrazione-della-riunione.mp4?rlkey=z5duoh2wwiaf0ncxcu1kpiy1e&dl=1)
