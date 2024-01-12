@@ -35,3 +35,5 @@
 33. [2023-12-18](https://www.dropbox.com/scl/fi/oy4txv5sth4d5c0qsuc3o/33-Lezione-33-del-2023-12-18-20231218_091555-Registrazione-della-riunione.mp4?rlkey=l3mt2s1t87oicgjl4owhsaznn&dl=1)
 34. [2023-12-19](https://www.dropbox.com/scl/fi/r8gfssi3ja6vxpzqhkerq/34-Lezione-34-del-2023-12-19-20231219_091503-Registrazione-della-riunione.mp4?rlkey=e4eugdlgk7xmwifwpkdx8wcpw&dl=1)
 35. [2024-01-08](https://www.dropbox.com/scl/fi/w64q86legsxxsaee9h2nx/35-Lezioni-2023-24-20240108_091700-Registrazione-della-riunione.mp4?rlkey=z5duoh2wwiaf0ncxcu1kpiy1e&dl=1)
+36. Prova intermedia
+37. [2024-01-12](https://www.dropbox.com/scl/fi/27v500yx6fduopabg7nzb/37-Lezione-37-del-2024-01-12-Ultima-20240112_091743-Registrazione-della-riunione.mp4?rlkey=7ivedbas7txhtqn8lzcrrmrdu&dl=1)

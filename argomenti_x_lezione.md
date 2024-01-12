@@ -287,3 +287,13 @@ Si implementi nel linguaggio C la struttura dati coda contenente `float`  facend
 Soluzione dei problemi assegnati: vedere [qua](https://github.com/glucatv/Programmazione-dei-Calcolatori-aa23-24/tree/main/lezioni/34-2024-01-03) e [qua](https://github.com/glucatv/Programmazione-dei-Calcolatori-aa23-24/tree/main/lezioni/34-2024-01-05). Implementazioni di strutture con elementi di tipo non omogeneo, una soluzione usando le `union` del C.
 
 [Video della lezione](https://www.dropbox.com/scl/fi/w64q86legsxxsaee9h2nx/35-Lezioni-2023-24-20240108_091700-Registrazione-della-riunione.mp4?rlkey=z5duoh2wwiaf0ncxcu1kpiy1e&dl=1)
+
+## Lezione 36 del 2024-01-09
+
+Terza prova intermedia.
+
+## Lezione 37 del 2024-01-12
+
+Array mult-idimensionali: rappresentazione con array lineari; conversione tra indici della rappresentazione astratta verso la rappresentazione lineare e viceversa; differenza tra array multi dimensionali e array di array.
+
+[Video della lezione](https://www.dropbox.com/scl/fi/27v500yx6fduopabg7nzb/37-Lezione-37-del-2024-01-12-Ultima-20240112_091743-Registrazione-della-riunione.mp4?rlkey=7ivedbas7txhtqn8lzcrrmrdu&dl=1)
